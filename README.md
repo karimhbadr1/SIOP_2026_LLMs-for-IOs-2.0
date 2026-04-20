@@ -1,12 +1,13 @@
-# Building Q&A Bots for I/O Psychologists: A Step-by-Step Tutorial
+# Designing and Building AI Agents for High-Stakes IO Applications: A Master Tutorial
 
-*Huang, Y., Badr, K., & Agnello, P. (2025). Building Q&A bots for I/O Psychologists: A step-by-step tutorial [Master Tutorial]. Society for Industrial and Organizational Psychology Annual Conference, Denver, CO, United States.*
 
-*Thursday, April 3rd - 4:00 PM*
+*Badr, K. (Chair), Beazley, C., Meaden, J., & Samo, A. (2026, April 30 – May 2). Designing and Building AI Agents for High-Stakes IO Applications: A Master Tutorial [Master Tutorial]. Society for Industrial and Organizational Psychology Annual Conference, New Orleans, LA, United States.*
+
+*Thursday, April 30th - 2:00 PM*
 
 ## Abstract
 
-In this tutorial, we introduce automatic Information Retrieval Q&A Systems (IRQAS) tailored for I/O Psychology, leveraging Large Language Models (LLMs) like GPT-4o. We spotlight CESAIR, a system optimized for answering users’ questions basing answers on a library of documents defined by the owner. We will provide practical guidance on how to use CESAIR effectively in I/O relevant settings. Designed for I/O practitioners and academics with no LLMs and limited coding expertise, participants will learn to comprehend, evaluate, and utilize IRQAS.
+Agentic AI moves beyond single LLMs to goal-directed systems that plan, use tools, and act with bounded autonomy. Despite their popularity, guidance on key design and implementation decisions is scarce. This master tutorial presents a cross-industry framework uniting AI, software development, and I-O best practices for high-stakes workflows. We’ll demo an Agentic AI tool built with this framework and help attendees leave with a use case for their own work, tying design choices to psychometric evidence and implementation guardrails.
 
 ## Content
 
