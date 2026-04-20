@@ -1,13 +1,13 @@
-# Designing and Building AI Agents for High-Stakes IO Applications: A Master Tutorial
+# LLMs for I-Os 2.0: A Features and Applications Masterclass
 
 
-*Badr, K. (Chair), Beazley, C., Meaden, J., & Samo, A. (2026, April 30 – May 2). Designing and Building AI Agents for High-Stakes IO Applications: A Master Tutorial [Master Tutorial]. Society for Industrial and Organizational Psychology Annual Conference, New Orleans, LA, United States.*
+*Bennett, M. (Co-Chair), Badr, K. (Co-Chair), Camden, L., Ho, B., Riddervold Sandberg., E., & Zhu, Y.E. (2026, April 30 – May 2). LLMs for I-Os 2.0: A Features and Applications Masterclass [Master Tutorial]. Society for Industrial and Organizational Psychology Annual Conference, New Orleans, LA, United States.*
 
-*Thursday, April 30th - 2:00 PM*
+*Saturday, May 2nd - 8:00 AM*
 
 ## Abstract
 
-Agentic AI moves beyond single LLMs to goal-directed systems that plan, use tools, and act with bounded autonomy. Despite their popularity, guidance on key design and implementation decisions is scarce. This master tutorial presents a cross-industry framework uniting AI, software development, and I-O best practices for high-stakes workflows. We’ll demo an Agentic AI tool built with this framework and help attendees leave with a use case for their own work, tying design choices to psychometric evidence and implementation guardrails.
+The field of large language models (LLMs) is evolving rapidly, and many I-Os are still learning how to integrate these tools into their jobs and fully harness their potential. Many do not know where to get started on this journey. Join us for a tutorial to demystify LLMs and learn practical LLM skills. This session offers valuable insights and demonstrations for beginners and intermediates. We'll start with basics and cover many topics, including prompt engineering, using tools and Agent Mode, LLM automation, and even RAG. By the end, you'll be well equipped to integrate LLMs into your work.
 
 ## Content
 
