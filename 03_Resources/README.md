@@ -35,3 +35,4 @@ For more information about creating Custom GPTs, we recommend checking the below
 - Open AI Help Page about Custom GPTs: https://help.openai.com/en/articles/8554397-creating-a-gpt
 - YouTube Walkthrough: https://youtu.be/0Q1AQAxpdGg?si=7tybJkMyQPTYEO_C
 
+Example Vibe Coded Website: https://karimhbadr1.github.io/siop_2026_ai_sessions/
